@@ -1,0 +1,122 @@
+,0,1
+0,days_between,0.24274101961041683
+1,FpVehicleAgeMonths,0.16505645402662483
+2,ClaimAmount,0.12211392665095397
+3,LossHour,0.0987241475356817
+4,PolicyHolderAge,0.067550893129682
+5,DamageImportance,0.04495066025983163
+6,FirstPartyVehicleNumber,0.029937172113679487
+7,NumberOfPoliciesOfPolicyholder,0.028595182154626513
+8,ClaimInvolvedCovers_ActLiability Fire ThirdParty,0.021424030929348744
+9,ClaimCause_LossOfControl,0.01860298027560776
+10,ClaimCause_WindscreenDamage,0.018524026432084267
+11,ConnectionBetweenParties_SameAddress,0.013164097835044726
+12,IfinSameArea,0.012288168376499622
+13,PolicyholderOccupation_CivilServant,0.010700946627868413
+14,ClaimCause_Flood,0.009995224577884864
+15,ClaimCause_AccidentWithUnidentifiedThirdParty,0.009974754582464504
+16,ClaimInvolvedCovers_ActLiability Fire,0.009389832142114057
+17,EasinessToStage,0.008810750927219292
+18,FirstPartyLiability,0.008792561188164542
+19,FirstPartyVehicleType_Car,0.00841021446339987
+20,PolicyholderOccupation_Employee,0.007926627131754377
+21,PolicyholderOccupation_Retired,0.0059449703488157835
+22,PolicyholderOccupation_SelfEmployed,0.0059449703488157835
+23,ClaimWihoutIdentifiedThirdParty,0.005753197111757205
+24,ClaimCause_Hail,0.005260814930546062
+25,ClaimInvolvedCovers_ThirdParty,0.005255077831346166
+26,ClaimInvolvedCovers_Windscreen ActLiability,0.00446204242169648
+27,ClaimCause_AccidentOrCollision,0.0039591936973055845
+28,ClaimInvolvedCovers_MaterialDamages ActLiability MedicalCare,0.0020801600164568313
+29,ConnectionBetweenParties_SamePolice,0.0016777299912614009
+30,ClaimCause_TotalTheft,0.00121588380782071
+31,ThirdPartyVehicleNumber,0.0007722885232260738
+32,PolicyWasSubscribedOnInternet,0.0
+33,NumberOfBodilyInjuries,0.0
+34,PolicyholderOccupation_Executive,0.0
+35,PolicyholderOccupation_Farmer,0.0
+36,PolicyholderOccupation_HeadOfCompany,0.0
+37,PolicyholderOccupation_Merchant,0.0
+38,PolicyholderOccupation_Student,0.0
+39,PolicyholderOccupation_Unemployed,0.0
+40,PolicyholderOccupation_Worker,0.0
+41,ClaimCause_AccidentWithIdentifiedThirdParty,0.0
+42,ClaimCause_CollisionWithAnimal,0.0
+43,ClaimCause_CollisionWithPedestrian,0.0
+44,ClaimCause_Fire,0.0
+45,ClaimCause_ForcesOfNature,0.0
+46,ClaimCause_LegalProtection,0.0
+47,ClaimCause_MultiVehicleCrash,0.0
+48,ClaimCause_Storm,0.0
+49,ClaimCause_TheftAttempt,0.0
+50,ClaimCause_TheftOfExteriorElements,0.0
+51,ClaimCause_Vandalism,0.0
+52,ClaimInvolvedCovers_Accessories ActLiability,0.0
+53,ClaimInvolvedCovers_Accessories ActLiability Theft,0.0
+54,ClaimInvolvedCovers_Accessories MaterialDamages ActLiability,0.0
+55,ClaimInvolvedCovers_Accessories MaterialDamages ActLiability MedicalCare,0.0
+56,ClaimInvolvedCovers_Accessories MaterialDamages ActLiability ThirdParty,0.0
+57,ClaimInvolvedCovers_Accessories RiderClothes Windscreen ActLiability Theft,0.0
+58,ClaimInvolvedCovers_Accessories Theft,0.0
+59,ClaimInvolvedCovers_Accessories Windscreen,0.0
+60,ClaimInvolvedCovers_Accessories Windscreen ActLiability,0.0
+61,ClaimInvolvedCovers_Accessories Windscreen ActLiability Burglary,0.0
+62,ClaimInvolvedCovers_Accessories Windscreen ActLiability Theft,0.0
+63,ClaimInvolvedCovers_Accessories Windscreen Theft,0.0
+64,ClaimInvolvedCovers_ActLiability,0.0
+65,ClaimInvolvedCovers_ActLiability Burglary,0.0
+66,ClaimInvolvedCovers_ActLiability Burglary ReplacementVehicle,0.0
+67,ClaimInvolvedCovers_ActLiability Burglary Theft,0.0
+68,ClaimInvolvedCovers_ActLiability Burglary Theft ReplacementVehicle,0.0
+69,ClaimInvolvedCovers_ActLiability Fire Burglary,0.0
+70,ClaimInvolvedCovers_ActLiability Fire ReplacementVehicle,0.0
+71,ClaimInvolvedCovers_ActLiability MaterialDamages,0.0
+72,ClaimInvolvedCovers_ActLiability MedicalCare,0.0
+73,ClaimInvolvedCovers_ActLiability MedicalCare ThirdParty,0.0
+74,ClaimInvolvedCovers_ActLiability NaturalCatastrophes,0.0
+75,ClaimInvolvedCovers_ActLiability NaturalCatastrophes Burglary,0.0
+76,ClaimInvolvedCovers_ActLiability NaturalCatastrophes ReplacementVehicle,0.0
+77,ClaimInvolvedCovers_ActLiability ReplacementVehicle,0.0
+78,ClaimInvolvedCovers_ActLiability Theft,0.0
+79,ClaimInvolvedCovers_ActLiability Theft ReplacementVehicle,0.0
+80,ClaimInvolvedCovers_ActLiability ThirdParty,0.0
+81,ClaimInvolvedCovers_ActLiability ThirdParty ReplacementVehicle,0.0
+82,ClaimInvolvedCovers_ActLiability ThirdParty Theft,0.0
+83,ClaimInvolvedCovers_Burglary,0.0
+84,ClaimInvolvedCovers_Burglary Theft,0.0
+85,ClaimInvolvedCovers_MaterialDamages,0.0
+86,ClaimInvolvedCovers_MaterialDamages ActLiability,0.0
+87,ClaimInvolvedCovers_MaterialDamages ActLiability Burglary,0.0
+88,ClaimInvolvedCovers_MaterialDamages ActLiability Burglary ReplacementVehicle,0.0
+89,ClaimInvolvedCovers_MaterialDamages ActLiability Fire,0.0
+90,ClaimInvolvedCovers_MaterialDamages ActLiability MedicalCare ThirdParty,0.0
+91,ClaimInvolvedCovers_MaterialDamages ActLiability NaturalCatastrophes,0.0
+92,ClaimInvolvedCovers_MaterialDamages ActLiability NaturalCatastrophes ReplacementVehicle,0.0
+93,ClaimInvolvedCovers_MaterialDamages ActLiability ReplacementVehicle,0.0
+94,ClaimInvolvedCovers_MaterialDamages ActLiability Theft,0.0
+95,ClaimInvolvedCovers_MaterialDamages ActLiability ThirdParty,0.0
+96,ClaimInvolvedCovers_MaterialDamages ActLiability ThirdParty ReplacementVehicle,0.0
+97,ClaimInvolvedCovers_MaterialDamages Burglary,0.0
+98,ClaimInvolvedCovers_MaterialDamages ThirdParty,0.0
+99,ClaimInvolvedCovers_MedicalCare,0.0
+100,ClaimInvolvedCovers_MedicalCare ThirdParty,0.0
+101,ClaimInvolvedCovers_NaturalCatastrophes,0.0
+102,ClaimInvolvedCovers_NaturalCatastrophes ActLiability ReplacementVehicle,0.0
+103,ClaimInvolvedCovers_Theft,0.0
+104,ClaimInvolvedCovers_ThirdPartyMaterialDamages ActLiability,0.0
+105,ClaimInvolvedCovers_Windscreen,0.0
+106,ClaimInvolvedCovers_Windscreen ActLiability Burglary,0.0
+107,ClaimInvolvedCovers_Windscreen ActLiability Burglary Theft,0.0
+108,ClaimInvolvedCovers_Windscreen ActLiability NaturalCatastrophes,0.0
+109,ClaimInvolvedCovers_Windscreen ActLiability Theft,0.0
+110,ClaimInvolvedCovers_Windscreen ActLiability Theft ReplacementVehicle,0.0
+111,ClaimInvolvedCovers_Windscreen MaterialDamages,0.0
+112,ClaimInvolvedCovers_Windscreen MaterialDamages ActLiability,0.0
+113,ClaimInvolvedCovers_Windscreen NaturalCatastrophes,0.0
+114,ClaimInvolvedCovers_Windscreen Theft,0.0
+115,FirstPartyVehicleType_Caravan,0.0
+116,FirstPartyVehicleType_Motorcycle,0.0
+117,FirstPartyVehicleType_PrivateCar,0.0
+118,ConnectionBetweenParties_SameBankAccount,0.0
+119,ConnectionBetweenParties_SameEmail,0.0
+120,ConnectionBetweenParties_SamePhone,0.0
